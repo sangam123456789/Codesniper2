@@ -1,0 +1,142 @@
+[
+{
+    "model": "Home.sort",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Subsequence Permutation",
+        "description": "Just sort the string and return the number of indices where the characters do not match with original string s.",
+        "link": "https://codeforces.com/contest/1552/problem/A"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 2,
+    "fields": {
+        "order": "1",
+        "name": "Apartments",
+        "description": "Give the smallest size to the person with the smallest desire!",
+        "link": "https://cses.fi/problemset/task/1084"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 3,
+    "fields": {
+        "order": "2",
+        "name": "Ferris Wheel",
+        "description": "What about  the case when weight of 4 children is 2 2 8 8..and x = 10.",
+        "link": "https://cses.fi/problemset/task/1090"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 4,
+    "fields": {
+        "order": "3",
+        "name": "Concert Tickets",
+        "description": "Just use multiset(el) to know the closest value and dont forget to erase it from set using el.erase(el.find(a)). to erase only one occurence of a.",
+        "link": "https://cses.fi/problemset/task/1091"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 5,
+    "fields": {
+        "order": "2",
+        "name": "Movie Festival",
+        "description": "You should watch the movie which ends early! Then check if we can watch the next movie or not..",
+        "link": "https://cses.fi/problemset/task/1629"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 6,
+    "fields": {
+        "order": "2",
+        "name": "Stick Lengths",
+        "description": "Sort the sticks then we will try to make every stick as long as the middle one. Do you have three friends in a straight street then where you will meet to save fuel?",
+        "link": "https://cses.fi/problemset/task/1074"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 7,
+    "fields": {
+        "order": "2",
+        "name": "Missing Coin Sum",
+        "description": "Sort , observe that we can make every sum upto the max sum of coins taken from starting , if we encounter a coin which is greater than our sum then we will miss that max sum.",
+        "link": "https://cses.fi/problemset/task/2183"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 8,
+    "fields": {
+        "order": "3",
+        "name": "Traffic Lights",
+        "description": "By adding a traffic light we are just dividing a length into two parts , maintain a multiset of distances..",
+        "link": "https://cses.fi/problemset/task/1163"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 9,
+    "fields": {
+        "order": "1",
+        "name": "Ezzat and Two Subsequences",
+        "description": "Sort and think where to put elements. what is the answer for -  1 1 5 case!",
+        "link": "https://codeforces.com/contest/1557/problem/A"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 10,
+    "fields": {
+        "order": "2",
+        "name": "Moamen and k-subarrays",
+        "description": "Check if two adjacent elements in sorted array are also adjacent in original array or not!",
+        "link": "https://codeforces.com/contest/1557/problem/B"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 11,
+    "fields": {
+        "order": "1",
+        "name": "Exclusion-Inclusion",
+        "description": "You can always take top k elements!",
+        "link": "https://www.codechef.com/problems/ONEFROMK"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 12,
+    "fields": {
+        "order": "1",
+        "name": "Ten Words of Wisdom",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1850/problem/B"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 13,
+    "fields": {
+        "order": "1",
+        "name": "Sasha and Array Coloring",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1843/problem/A"
+    }
+},
+{
+    "model": "Home.sort",
+    "pk": 14,
+    "fields": {
+        "order": "1",
+        "name": "Parity Sort",
+        "description": "There can never be an odd to even transfer possible.",
+        "link": "https://codeforces.com/contest/1851/problem/B"
+    }
+}
+]

@@ -1,0 +1,162 @@
+[
+{
+    "model": "Home.graph",
+    "pk": 1,
+    "fields": {
+        "order": "10",
+        "name": "Rudolf and CodeVid-23",
+        "description": "convert the strings to decimal! , make 2^n nodes and make an edge with a node to which different type of strings(nodes) we can reach! Use dijkstra!",
+        "link": "https://codeforces.com/contest/1846/problem/G"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 2,
+    "fields": {
+        "order": "6",
+        "name": "Array Differentiation",
+        "description": "https://codeforces.com/blog/entry/93199",
+        "link": "https://codeforces.com/contest/1552/problem/D"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 3,
+    "fields": {
+        "order": "9",
+        "name": "Tenzing and His Animal Friends",
+        "description": "Try to make the connection graph and think how we are removing edges.",
+        "link": "https://codeforces.com/contest/1842/problem/D"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 4,
+    "fields": {
+        "order": "4",
+        "name": "Web of Lies",
+        "description": "Every edge that is there will have a person which will be killed.",
+        "link": "https://codeforces.com/contest/1549/problem/C"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 5,
+    "fields": {
+        "order": "20",
+        "name": "Synchronous Shopping",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/synchronous-shopping/problem?isFullScreen=false"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 6,
+    "fields": {
+        "order": "1",
+        "name": "Mocha and Hiking",
+        "description": "Answer will always exist, only look at the 1 and nth village state of roads!",
+        "link": "https://codeforces.com/contest/1559/problem/C"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 7,
+    "fields": {
+        "order": "4",
+        "name": "The Third Letter",
+        "description": "Think about creating an edge between a and b with weight d and b and a with weight -d.",
+        "link": "https://codeforces.com/contest/1850/problem/H"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 8,
+    "fields": {
+        "order": "3",
+        "name": "Nastya and Potions",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1851/problem/E"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 9,
+    "fields": {
+        "order": "2",
+        "name": "Minimum Score of a Path Between Two Cities",
+        "description": "You just have to find the minimum weighted edge in the connected component of 1 and n.",
+        "link": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 10,
+    "fields": {
+        "order": "6",
+        "name": "Divide Nodes Into the Maximum Number of Groups",
+        "description": "The answer exist if every connected component is bipartite, after that store the distance of every node with every node, using bfs as n <= 500.",
+        "link": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 11,
+    "fields": {
+        "order": "2",
+        "name": "Add Edges to Make Degrees of All Nodes Even",
+        "description": "There are only a few cases just handle them.",
+        "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 12,
+    "fields": {
+        "order": "2",
+        "name": "Cycle Length Queries in a Tree",
+        "description": "The parent of a node x is x / 2 in a binary tree.",
+        "link": "https://leetcode.com/problems/cycle-length-queries-in-a-tree/"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 13,
+    "fields": {
+        "order": "4",
+        "name": "Snakes and Ladders: The Quickest Way Up",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/the-quickest-way-up/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 14,
+    "fields": {
+        "order": "6",
+        "name": "Dijkstra: Shortest Reach 2",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/dijkstrashortreach/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 15,
+    "fields": {
+        "order": "2",
+        "name": "Prim's (MST) : Special Subtree",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/primsmstsub/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.graph",
+    "pk": 16,
+    "fields": {
+        "order": "9",
+        "name": "Counting Graphs",
+        "description": "See editorial.",
+        "link": "https://codeforces.com/contest/1857/problem/G"
+    }
+}
+]

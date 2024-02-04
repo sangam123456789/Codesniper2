@@ -1,0 +1,112 @@
+[
+{
+    "model": "Home.hash",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Party of Couples",
+        "description": "Just do it!",
+        "link": "https://practice.geeksforgeeks.org/problems/alone-in-couple5507/1?page=2&difficulty[]=-2&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.hash",
+    "pk": 2,
+    "fields": {
+        "order": "1",
+        "name": "Epic Transformation",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1506/problem/D"
+    }
+},
+{
+    "model": "Home.hash",
+    "pk": 3,
+    "fields": {
+        "order": "4",
+        "name": "Re-Orderings",
+        "description": "Do it yourself!",
+        "link": "https://www.codechef.com/LTIME102C/problems/RPDRDNG?tab=statement"
+    }
+},
+{
+    "model": "Home.hash",
+    "pk": 4,
+    "fields": {
+        "order": "3",
+        "name": "Median K",
+        "description": "Consider smaller elements in a subarray less than k as -1 and greater as 1, then total subarray sum should be zero if k is the median.",
+        "link": "https://leetcode.com/problems/count-subarrays-with-median-k/"
+    }
+},
+{
+    "model": "Home.hash",
+    "pk": 5,
+    "fields": {
+        "order": "5",
+        "name": "Potions(e)",
+        "description": "use multisets and store every element and check if the cur sum is negative then drop the first element of multiset.",
+        "link": "https://codeforces.com/contest/1526/problem/C1"
+    }
+},
+{
+    "model": "Home.hash",
+    "pk": 6,
+    "fields": {
+        "order": "10",
+        "name": "Strange Sort",
+        "description": "Check if we can set the elements at their positions in the sorted array having an even distance difference!",
+        "link": "https://codeforces.com/contest/1546/problem/C"
+    }
+},
+{
+    "model": "Home.hash",
+    "pk": 7,
+    "fields": {
+        "order": "2",
+        "name": "Collecting Numbers",
+        "description": "If 2 is behind 1 then there will be atleast two rounds similarly whenever there is inversion between x and x + 1 we have to take ectra round.",
+        "link": "https://cses.fi/problemset/task/2216"
+    }
+},
+{
+    "model": "Home.hash",
+    "pk": 8,
+    "fields": {
+        "order": "2",
+        "name": "Collecting Numbers II",
+        "description": "Carefully check how the swappings will change the answer..",
+        "link": "https://cses.fi/problemset/task/2217"
+    }
+},
+{
+    "model": "Home.hash",
+    "pk": 9,
+    "fields": {
+        "order": "2",
+        "name": "Card Swipe",
+        "description": "Just maintain a set of people who are currently in the room and take the maximum!",
+        "link": "https://www.codechef.com/problems/CARDSWIPE"
+    }
+},
+{
+    "model": "Home.hash",
+    "pk": 10,
+    "fields": {
+        "order": "4",
+        "name": "The Morning Star",
+        "description": "What if there were only 4 standard directions?",
+        "link": "https://codeforces.com/contest/1850/problem/G"
+    }
+},
+{
+    "model": "Home.hash",
+    "pk": 11,
+    "fields": {
+        "order": "4",
+        "name": "Binary String Copying",
+        "description": "Consider only the length which is undergoing sorting!",
+        "link": "https://codeforces.com/contest/1849/problem/C"
+    }
+}
+]

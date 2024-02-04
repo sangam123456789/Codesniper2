@@ -1,0 +1,182 @@
+[
+{
+    "model": "Home.segtree",
+    "pk": 1,
+    "fields": {
+        "order": "15",
+        "name": "Pairwise Modulo",
+        "description": "https://codeforces.com/blog/entry/93105",
+        "link": "https://codeforces.com/contest/1553/problem/F"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 2,
+    "fields": {
+        "order": "4",
+        "name": "Editor",
+        "description": "When can you say that a bracket sequence is valid (if the sum is zero- '(' = +1 , ')' = -1 ). To find the minimum color required we need the maximum value of this sum! Use segtree for that. (https://codeforces.com/contest/1263/submission/213459055)",
+        "link": "https://codeforces.com/contest/1263/problem/E"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 3,
+    "fields": {
+        "order": "6",
+        "name": "Integers Have Friends",
+        "description": "See the editorial! Use sparse table to avoid TLE.",
+        "link": "https://codeforces.com/contest/1549/problem/D"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 4,
+    "fields": {
+        "order": "14",
+        "name": "Equilibrium",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1556/problem/E"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 5,
+    "fields": {
+        "order": "10",
+        "name": "Non-Decreasing Dilemma",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1567/problem/E"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 6,
+    "fields": {
+        "order": "6",
+        "name": "Count Substrings",
+        "description": "Do it yourself!",
+        "link": "https://www.codechef.com/problems/STRSUB?tab=statement"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 7,
+    "fields": {
+        "order": "1",
+        "name": "Segment Tree for the Sum",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/A"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 8,
+    "fields": {
+        "order": "1",
+        "name": "Segment Tree for the Minimum",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/B"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 9,
+    "fields": {
+        "order": "2",
+        "name": "Number of Minimums on a Segment",
+        "description": "Store the count of number of minimums.",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 10,
+    "fields": {
+        "order": "2",
+        "name": "Segment with the Maximum Sum",
+        "description": "Here we should have knowledge about the prefix maximum and suffix maximum of ranges.",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/A"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 11,
+    "fields": {
+        "order": "2",
+        "name": "K-th one",
+        "description": "Store the sum of segments and go to that segment where you will find kth one.",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/B"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 12,
+    "fields": {
+        "order": "2",
+        "name": "First element at least X",
+        "description": "Storing the maximum of segments can work.",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/C"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 13,
+    "fields": {
+        "order": "2",
+        "name": "First element at least X - 2",
+        "description": "See the theory.",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/D"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 14,
+    "fields": {
+        "order": "3",
+        "name": "Inversions",
+        "description": "See the theory.",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/A"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 15,
+    "fields": {
+        "order": "3",
+        "name": "Inversions 2",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/B"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 16,
+    "fields": {
+        "order": "4",
+        "name": "Nested Segments",
+        "description": "See theory",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/C"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 17,
+    "fields": {
+        "order": "5",
+        "name": "Intersecting Segments",
+        "description": "Just know how much nested segments are inside and subtract that from length.",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/D"
+    }
+},
+{
+    "model": "Home.segtree",
+    "pk": 18,
+    "fields": {
+        "order": "4",
+        "name": "Addition to Segment",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/E"
+    }
+}
+]

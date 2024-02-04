@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="en">
+  {% load static %}
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="css/shCore.css" rel="stylesheet" type="text/css" />
+    <link href="css/shThemeDefault.css" rel="stylesheet" type="text/css" />
+
+    <style>
+      .label {
+        display: block;
+        font-size: 18px;
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 10px;
+      }
+      
+      /* Customized label style */
+      .custom-label {
+        background-color: #f1f1f1;
+        padding: 10px;
+        border-radius: 5px;
+      }
+      @media(max-width: 767px) {
+
+        
+        body {
+          font-size: 14px;
+        }
+        
+        
+        .faltu{
+          display : flex;
+          justify-content : center;
+        }
+
+        .f2{
+         
+          justify-content : center;
+        }
+
+        .homestyle{
+          margin-left:20px; margin-top:10px;
+        }  
+
+        .long-text {
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+         }
+
+        .breadphoneme{
+          margin-bottom: 0.3rem;
+          padding-top: 2px;
+          padding-bottom: 2px;
+        }  
+
+        .hintphoneme{
+          padding-top: 0px;
+          padding-bottom: 1px;
+          height: 24px;
+        }  
+
+        .phoneme{
+          margin-left: 6px;
+          margin-right: 6px;
+          background-color: #d2d2e9;
+          {% comment %} height: 177px; {% endcomment %}
+          border-radius: 10px;
+          border: 1px solid black;
+          margin-top: 5px;
+          padding-bottom:10px;
+          padding-left:6px;
+          padding-right:6px;
+          
+        }
+        
+        .carousel-control-prev {
+          margin-top:200px;position:fixed;height:360px;margin-left:-13px;
+        }
+         
+        .carousel-control-next {
+          margin-top:200px;position:fixed;height:360px;margin-right:-13px;
+        }
+
+        .carousel-control-prev-icon {
+          width:14px;height:16px;
+        }
+        
+        .carousel-control-next-icon {
+          width:14px;height:16px;
+        }
+        
+      }
+      
+      
+      @media (min-width: 768px) {
+        
+        body {
+          font-size: 16px;
+        }
+        
+       
+
+        .faltu{
+           margin-left : 16px; 
+        }
+
+        .f2{
+           margin-left : 0px; 
+        }
+        .activ{
+          border-bottom: 2px solid #ffffff;
+          border-radius:0px;
+          height : 32px;
+        }
+        .homestyle{
+          margin-left:20px; margin-top:10px;
+        } 
+
+        .long-text {
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+         }
+
+        .hintphoneme{
+          padding-top :1px; padding-bottom:1px;
+        }
+
+        .phoneme{
+          font-family: Verdana;
+          margin-left:20px; margin-right:20px; background-color:#d2d2e9;border-radius:10px;border:1px solid black;margin-top:5px;
+          padding-bottom: 15px;
+          padding-left: 7px;
+          {% comment %} height:113px; {% endcomment %}
+        }
+        
+        .carousel-control-prev {
+          width:140px;margin-top:70px; padding-right:40px; height:545px;position:fixed;
+        }
+        
+        .carousel-control-next{
+          width:140px; margin-top:170px; padding-left:40px; height:350px;position:fixed;
+        }
+
+        .licl{
+          height : 34px; margin-top : -9px;
+        }
+        .acl{
+          margin-top: 13px;padding-top: 3px;
+        }
+      }
+    </style>
+
+    <title>Codesniper</title>
+    <link rel = "icon" href = 
+    "{% static 'logo.png' %}" 
+            type = "image/x-icon">
+    
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark" style = "background-color:#c4cef3; padding:2px;">
+      <a class="navbar-brand" href="#">
+        <img src="{% static 'logo.png' %}" width="30" height="30" class="d-inline-block align-top" alt="">
+        codesniper
+      </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item licl">
+              <div class = "{% block homeactive %}{% endblock homeactive %}">
+                <a class="nav-link acl" href="/">Home <span class="sr-only">(current)</span></a>
+              </div>
+            </li>
+
+            <li class="nav-item licl">
+              <div class = "{% block templateactive %}{% endblock templateactive %}">
+                <a class="nav-link acl" href="/templates">Templates <span class="sr-only">(current)</span></a>
+              </div>
+              </li>
+            <li class="nav-item dropdown {% block dropactive %}{% endblock dropactive %}">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Starters
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/Brain">Brain Sharpners</a>
+                <a class="dropdown-item" href="/Beginner">Beginner</a>
+                <a class="dropdown-item" href="/Brute">Brute Force</a>
+                <a class="dropdown-item" href="/Greed">Greedy</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown {% block dropactive2 %}{% endblock dropactive2 %}">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Intermediate
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/Sub">Sub(array/seq)</a>
+                <a class="dropdown-item" href="/Pair">Maths</a>
+                <a class="dropdown-item" href="/Bit">Bits</a>
+                <a class="dropdown-item" href="/Implement">Implementation</a>
+                <a class="dropdown-item" href="/Recursion">Recursion</a>
+                <a class="dropdown-item" href="/Sort">Sorting</a>
+                <a class="dropdown-item" href="/Binary">Binary Search</a>
+                <a class="dropdown-item" href="/Pointer">Two Pointers</a>
+                <a class="dropdown-item" href="/Hash">Hashing</a>
+      
+              </div>
+            </li>
+            
+            <li class="nav-item dropdown {% block dropactive3 %}{% endblock dropactive3 %}">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Advance
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/Dpstand">Dp Standard</a>
+                <a class="dropdown-item" href="/Dp">Dp</a>
+                <a class="dropdown-item" href="/Tree">Tree</a>
+                <a class="dropdown-item" href="/Graph">Graph</a>
+                <a class="dropdown-item" href="/DSU">DSU</a>
+                <a class="dropdown-item" href="/Segtree">Segment Tree</a>
+                <a class="dropdown-item" href="/Mixed">Mixed Problems(Hard)</a>
+              </div>
+            </li>
+            
+            <li class="nav-item dropdown {% block dropactive4 %}{% endblock dropactive4 %}">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Login
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/signin">Signin</a>
+                <a class="dropdown-item" href="/signup">Signup</a>
+              </div>
+            </li>
+            
+            <li class="nav-item licl">
+              <div class = "{% block addactive %}{% endblock addactive %}">
+                <a class="nav-link acl" href="/Add"> Add  <span class="sr-only">(current)</span></a>
+              </div>  
+              </li>
+
+          </ul>
+
+          
+
+          <form method = "get" action = "/Search" class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" name = "search" id = "search" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+
+          {% if user.is_authenticated %}
+            <form class="form-inline my-2 my-lg-0" action = "\signout" method = "post">
+              {% csrf_token %}
+              <button class="btn btn-outline-danger my-2 my-sm-0 mx-2" type="submit">Logout ({{user.username}})</button>
+            </form>
+          {% endif %}  
+
+        </div>
+      </nav>
+
+      {% block body %}
+      
+      
+      {% endblock body %}
+
+
+
+      
+      <footer class="bg-dark text-light fixed-bottom">
+
+        <!-- Copyright -->
+        <p class = "text-center py-0.5 my-0">
+          Copyright &copy; All rights reserved
+        </p>
+        <!-- Copyright -->
+      
+      </footer>
+      
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  
+    <script src="js/shCore.js"></script>
+    <script src="js/shBrushCpp.js"></script>
+    <script>
+      SyntaxHighlighter.all()
+    </script>
+
+    <script>
+    $(function () {
+      $('[data-toggle="popover"]').popover()
+    })
+
+    $(function () {
+      $('.example-popover').popover({
+        container: 'body'
+      })
+    })
+  </script>
+  </body>
+</html>
+
+
+

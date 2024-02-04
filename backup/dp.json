@@ -1,0 +1,222 @@
+[
+{
+    "model": "Home.dp",
+    "pk": 1,
+    "fields": {
+        "order": "17",
+        "name": "Planar Reflections",
+        "description": "https://codeforces.com/blog/entry/89137",
+        "link": "https://codeforces.com/contest/1498/problem/C"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 2,
+    "fields": {
+        "order": "20",
+        "name": "Armchairs",
+        "description": "https://codeforces.com/blog/entry/90793",
+        "link": "https://codeforces.com/contest/1525/problem/D"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 3,
+    "fields": {
+        "order": "16",
+        "name": "Stringforces",
+        "description": "https://codeforces.com/contest/1550/submission/122476565",
+        "link": "https://codeforces.com/contest/1550/problem/E"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 4,
+    "fields": {
+        "order": "4",
+        "name": "Maximum Number of Non-overlapping Palindrome Substrings",
+        "description": "let dp[i] be the answer for the prefix s[0…i].",
+        "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 5,
+    "fields": {
+        "order": "1",
+        "name": "Maximum Number of Jumps to Reach the Last Index",
+        "description": "Define a dynamic programming array dp of size n, where dp[i] represents the maximum number of jumps from index 0 to index i!",
+        "link": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 6,
+    "fields": {
+        "order": "2",
+        "name": "Longest Non-decreasing Subarray From Two Arrays",
+        "description": "Let dp[0][i] be the longest subarray ending at position i whose last element is from first array, similarly dp[1][i] be the longest subarray ending at position i whose last element is from second array....",
+        "link": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 7,
+    "fields": {
+        "order": "5",
+        "name": "Egg Drop With 2 Eggs and N Floors",
+        "description": "Dp[n][k]  represents the moves required  to determine with certainty what the value of f is.  (https://leetcode.com/submissions/detail/991541729/)",
+        "link": "https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 8,
+    "fields": {
+        "order": "6",
+        "name": "Super Egg Drop",
+        "description": "This time you have to think something else you will get tle! let dp[m][x]  represents max number of floors that can be reached with m moves and using x eggs.",
+        "link": "https://leetcode.com/problems/super-egg-drop/"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 9,
+    "fields": {
+        "order": "4",
+        "name": "Tenzing and Balls",
+        "description": "Let dp[i] be the maximum number of balls removed till position i. But we cant check all previous ocurrences of the number at i. so store the position for which the previous ocurrence was giving max answer!",
+        "link": "https://codeforces.com/contest/1842/problem/C"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 10,
+    "fields": {
+        "order": "25",
+        "name": "Tenzing and Random Operations",
+        "description": "https://codeforces.com/blog/entry/117606",
+        "link": "https://codeforces.com/contest/1842/problem/G"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 11,
+    "fields": {
+        "order": "10",
+        "name": "Moamen and XOR",
+        "description": "See the editorial.",
+        "link": "https://codeforces.com/contest/1557/problem/C"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 12,
+    "fields": {
+        "order": "15",
+        "name": "Counting Factorizations",
+        "description": "xCr = (x  - 1)C(r - 1) + (x - 1)C(r). See the editorial!",
+        "link": "https://codeforces.com/contest/1794/problem/D"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 13,
+    "fields": {
+        "order": "12",
+        "name": "Up the Strip (simplified version)",
+        "description": "Implement it carefully..",
+        "link": "https://codeforces.com/contest/1561/problem/D1"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 14,
+    "fields": {
+        "order": "13",
+        "name": "Up the Strip",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1561/problem/D2"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 15,
+    "fields": {
+        "order": "25",
+        "name": "Rescue Niwen!",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1562/problem/E"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 16,
+    "fields": {
+        "order": "6",
+        "name": "Throw and Take",
+        "description": "https://www.codechef.com/viewsolution/66174023",
+        "link": "https://www.codechef.com/problems/THROWTAKE?tab=statement"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 17,
+    "fields": {
+        "order": "5",
+        "name": "Word Break",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/word-break/"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 18,
+    "fields": {
+        "order": "10",
+        "name": "Earn or Unlock",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1855/problem/D"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 19,
+    "fields": {
+        "order": "8",
+        "name": "Kingdom Division",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/kingdom-division/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 20,
+    "fields": {
+        "order": "7",
+        "name": "Sherlock and Cost",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/sherlock-and-cost/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 21,
+    "fields": {
+        "order": "10",
+        "name": "Stone Division, Revisited",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/stone-division-2/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.dp",
+    "pk": 22,
+    "fields": {
+        "order": "4",
+        "name": "Number of Great Partitions",
+        "description": "Find the invalid partition and subtract them from total possible partitions(2^n). Dp[i][j] represents number of partition such that we have used i elements and the sum is j.",
+        "link": "https://leetcode.com/problems/number-of-great-partitions/"
+    }
+}
+]

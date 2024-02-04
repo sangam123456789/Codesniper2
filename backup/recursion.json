@@ -1,0 +1,92 @@
+[
+{
+    "model": "Home.recursion",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Permutation Transformation",
+        "description": "https://codeforces.com/contest/1490/submission/148",
+        "link": "https://codeforces.com/contest/1490/problem/D"
+    }
+},
+{
+    "model": "Home.recursion",
+    "pk": 2,
+    "fields": {
+        "order": "10",
+        "name": "Gray Code",
+        "description": "Learn bactracking! There are also other ways to do it..",
+        "link": "https://leetcode.com/problems/gray-code/"
+    }
+},
+{
+    "model": "Home.recursion",
+    "pk": 4,
+    "fields": {
+        "order": "3",
+        "name": "Painting Fence",
+        "description": "Max value can not exceed the length of a segment!",
+        "link": "https://codeforces.com/contest/448/problem/C"
+    }
+},
+{
+    "model": "Home.recursion",
+    "pk": 5,
+    "fields": {
+        "order": "8",
+        "name": "Tower of Hanoi",
+        "description": "Solve the way for 2, 3, and 4 piles in copy to understand the process. Total moves = 2^n - 1. Think about having an initial tower a destination tower and a to-use tower, and how they will be passed during recursion!",
+        "link": "https://cses.fi/problemset/task/2165"
+    }
+},
+{
+    "model": "Home.recursion",
+    "pk": 6,
+    "fields": {
+        "order": "7",
+        "name": "Creating Strings",
+        "description": "use a set of strings to store unique strings.",
+        "link": "https://cses.fi/problemset/task/1622"
+    }
+},
+{
+    "model": "Home.recursion",
+    "pk": 7,
+    "fields": {
+        "order": "6",
+        "name": "Apple Division",
+        "description": "Just use all possible ways using recursion! Why cant we use here knapsack dp?",
+        "link": "https://cses.fi/problemset/task/1623"
+    }
+},
+{
+    "model": "Home.recursion",
+    "pk": 8,
+    "fields": {
+        "order": "5",
+        "name": "Word Break II",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/word-break-ii/"
+    }
+},
+{
+    "model": "Home.recursion",
+    "pk": 9,
+    "fields": {
+        "order": "6",
+        "name": "The Power Sum",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/the-power-sum/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.recursion",
+    "pk": 10,
+    "fields": {
+        "order": "9",
+        "name": "Crossword Puzzle",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/crossword-puzzle/problem?isFullScreen=true"
+    }
+}
+]

@@ -1,0 +1,202 @@
+[
+{
+    "model": "Home.mixed",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Li Hua and Chess",
+        "description": "Use endl after cout.\r\ne.g , cout << x << endl;  query 1 = \" ?  1 1\" , assume the input to be the column number......",
+        "link": "https://codeforces.com/contest/1797/problem/C"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 2,
+    "fields": {
+        "order": "2",
+        "name": "Trapping Rain Water II",
+        "description": "Heap.",
+        "link": "https://leetcode.com/problems/trapping-rain-water-ii/"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 3,
+    "fields": {
+        "order": "3",
+        "name": "Robot Collisions",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1525/problem/C"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 4,
+    "fields": {
+        "order": "4",
+        "name": "Complete Graph",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1780/problem/E"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 5,
+    "fields": {
+        "order": "5",
+        "name": "Excellent Arrays",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1550/problem/D"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 6,
+    "fields": {
+        "order": "2",
+        "name": "Minimax",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1530/problem/E"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 7,
+    "fields": {
+        "order": "5",
+        "name": "You",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1554/problem/E"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 8,
+    "fields": {
+        "order": "4",
+        "name": "Divisors",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/448/problem/E"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 9,
+    "fields": {
+        "order": "6",
+        "name": "Economic Difficulties",
+        "description": "Use LCA from the templates!",
+        "link": "https://codeforces.com/contest/1263/problem/F"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 10,
+    "fields": {
+        "order": "5",
+        "name": "Tenzing and Triangle",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1842/problem/E"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 11,
+    "fields": {
+        "order": "5",
+        "name": "Ezzat and Grid",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1557/problem/D"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 12,
+    "fields": {
+        "order": "5",
+        "name": "Labeling the Tree with Distances",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1794/problem/E"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 13,
+    "fields": {
+        "order": "1",
+        "name": "Take a Guess",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1556/problem/D"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 14,
+    "fields": {
+        "order": "5",
+        "name": "Musical Chairs",
+        "description": "Do it yourself!",
+        "link": "https://www.codechef.com/problems/MUSICAL"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 15,
+    "fields": {
+        "order": "4",
+        "name": "Max to the Right of Min",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1849/problem/E"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 16,
+    "fields": {
+        "order": "2",
+        "name": "Inconvenient Pairs",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1569/problem/D"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 17,
+    "fields": {
+        "order": "1",
+        "name": "Maximum Number of Points From Grid Queries",
+        "description": "Sort the queries and answer them in increasing order.",
+        "link": "https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 18,
+    "fields": {
+        "order": "2",
+        "name": "More Wrong",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1856/problem/D"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 19,
+    "fields": {
+        "order": "2",
+        "name": "Little Elephant and Bubble Sort",
+        "description": "Do it yourself!",
+        "link": "https://www.codechef.com/problems/LEBOBBLE?tab=statement"
+    }
+},
+{
+    "model": "Home.mixed",
+    "pk": 20,
+    "fields": {
+        "order": "4",
+        "name": "Stone Game",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/stonegame/problem?isFullScreen=true"
+    }
+}
+]

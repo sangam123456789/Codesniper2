@@ -1,0 +1,292 @@
+[
+{
+    "model": "Home.binary",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Accidental Victory",
+        "description": "May use prefix sum..",
+        "link": "https://codeforces.com/contest/1490/problem/E"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 2,
+    "fields": {
+        "order": "5",
+        "name": "Triplets Min",
+        "description": "sort the array , How many times first element will be present = (n - 1)C 2 .",
+        "link": "https://www.codechef.com/START97B/problems/TRIPLETMIN"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 3,
+    "fields": {
+        "order": "4",
+        "name": "Number of Pairs",
+        "description": "Sort and check!",
+        "link": "https://codeforces.com/contest/1538/problem/C"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 4,
+    "fields": {
+        "order": "10",
+        "name": "Rudolf and Snowflakes(h)",
+        "description": "use binary search to find the value of k for a given number of terms, be carefull about integer overflow!",
+        "link": "https://codeforces.com/contest/1846/problem/E2"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 5,
+    "fields": {
+        "order": "11",
+        "name": "Gift Set",
+        "description": "check if we can make z number of gift sets using binary search over number of gift sets.",
+        "link": "https://codeforces.com/contest/1538/problem/G"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 6,
+    "fields": {
+        "order": "5",
+        "name": "Pursuit",
+        "description": "Binary search on the number of stages.",
+        "link": "https://codeforces.com/contest/1530/problem/C"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 7,
+    "fields": {
+        "order": "10",
+        "name": "Telepanting",
+        "description": "https://codeforces.com/blog/entry/93199",
+        "link": "https://codeforces.com/contest/1552/problem/F"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 8,
+    "fields": {
+        "order": "8",
+        "name": "Multiplication Table",
+        "description": "Let us find the largest number x such that number of integers in the table <= x(cnt) , if cnt < k then our answer will be x + 1. use binary search over x.",
+        "link": "https://codeforces.com/contest/448/problem/D"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 9,
+    "fields": {
+        "order": "3",
+        "name": "Restaurant Customers",
+        "description": "Sort according to the coming time then find how many people are ther when a person is present using binary search or set..",
+        "link": "https://cses.fi/problemset/task/1619"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 10,
+    "fields": {
+        "order": "3",
+        "name": "Deep Down Below",
+        "description": "Use binary search on answer..",
+        "link": "https://codeforces.com/contest/1561/problem/C"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 11,
+    "fields": {
+        "order": "15",
+        "name": "Two Hundred Twenty One (hard version)",
+        "description": "Answer can be 0 , 1 , 2 rods to be deleted, think how to select which rod should be deleted.",
+        "link": "https://codeforces.com/contest/1562/problem/D2"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 12,
+    "fields": {
+        "order": "9",
+        "name": "Vika and Bonuses",
+        "description": "2 => 4 => 8 => 6 => 2.....  What if the last digit is 2 or any other number, see the periodicity..",
+        "link": "https://codeforces.com/contest/1848/problem/D"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 13,
+    "fields": {
+        "order": "3",
+        "name": "Tracking Segments",
+        "description": "If the answer is x then for all x greater than x will also make the condition fullfill so we have to find this minimum value of x. find it using binary search.",
+        "link": "https://codeforces.com/contest/1843/problem/E"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 14,
+    "fields": {
+        "order": "5",
+        "name": "Ntarsis' Set",
+        "description": "If all the numbers before x are deleted then all numbers before x - 1 will also be deleted so we have to find the largest x such that after which all the before numbers are not deleted.",
+        "link": "https://codeforces.com/contest/1853/problem/C"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 15,
+    "fields": {
+        "order": "4",
+        "name": "To Become Max",
+        "description": "We should try to check how much can we increase an a[i] using binary search.",
+        "link": "https://codeforces.com/contest/1856/problem/C"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 16,
+    "fields": {
+        "order": "0",
+        "name": "Binary Search",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 17,
+    "fields": {
+        "order": "0",
+        "name": "Closest to the Left",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 18,
+    "fields": {
+        "order": "0",
+        "name": "Fast search",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 19,
+    "fields": {
+        "order": "1",
+        "name": "Packing Rectangles",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 20,
+    "fields": {
+        "order": "1",
+        "name": "Ropes",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 21,
+    "fields": {
+        "order": "3",
+        "name": "Children Holiday",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/D"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 22,
+    "fields": {
+        "order": "2",
+        "name": "Equation",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/E"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 23,
+    "fields": {
+        "order": "3",
+        "name": "String Game",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/F"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 24,
+    "fields": {
+        "order": "4",
+        "name": "Student Councils",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/G"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 25,
+    "fields": {
+        "order": "4",
+        "name": "Hamburgers",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/H"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 26,
+    "fields": {
+        "order": "5",
+        "name": "Take K of Each Character From Left and Right",
+        "description": "For every prefix find the smallest suffix which will satisfy the condition using binary search.",
+        "link": "https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 27,
+    "fields": {
+        "order": "3",
+        "name": "Maximum Tastiness of Candy Basket",
+        "description": "Use binary search on answer.",
+        "link": "https://leetcode.com/problems/maximum-tastiness-of-candy-basket/"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 28,
+    "fields": {
+        "order": "6",
+        "name": "To Become Max",
+        "description": "For every position check how much can we increase it.",
+        "link": "https://codeforces.com/contest/1856/problem/C"
+    }
+},
+{
+    "model": "Home.binary",
+    "pk": 29,
+    "fields": {
+        "order": "10",
+        "name": "Maximize the Minimum Powered City",
+        "description": "Use binary search on answer!",
+        "link": "https://leetcode.com/problems/maximize-the-minimum-powered-city"
+    }
+}
+]

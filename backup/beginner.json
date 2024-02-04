@@ -1,0 +1,332 @@
+[
+{
+    "model": "Home.beginner",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Remove spaces",
+        "description": "Try it!",
+        "link": "https://practice.geeksforgeeks.org/problems/remove-spaces0128/1?page=2&difficulty[]=-2&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 2,
+    "fields": {
+        "order": "1",
+        "name": "Find key",
+        "description": "For loop?",
+        "link": "https://practice.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1?page=2&difficulty[]=-2&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 3,
+    "fields": {
+        "order": "1",
+        "name": "Series AP",
+        "description": "Remember 12th  :)",
+        "link": "https://practice.geeksforgeeks.org/problems/series-ap5310/1?page=2&difficulty[]=-2&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 4,
+    "fields": {
+        "order": "1",
+        "name": "If-else",
+        "description": "Use cout :)",
+        "link": "https://practice.geeksforgeeks.org/problems/c-if-else-decision-making4138/1?page=2&difficulty[]=-2&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 5,
+    "fields": {
+        "order": "1",
+        "name": "Make it small",
+        "description": "Don't forget to look other's code...",
+        "link": "https://practice.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1?page=2&difficulty[]=-2&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 6,
+    "fields": {
+        "order": "1",
+        "name": "2 power",
+        "description": "Check it!",
+        "link": "https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1?page=1&difficulty[]=-1&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 7,
+    "fields": {
+        "order": "1",
+        "name": "Codeforces checking",
+        "description": "Loop..",
+        "link": "https://codeforces.com/contest/1791/problem/A"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 8,
+    "fields": {
+        "order": "1",
+        "name": "Following Directions",
+        "description": "Cordinates",
+        "link": "https://codeforces.com/contest/1791/problem/B"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 9,
+    "fields": {
+        "order": "9",
+        "name": "Move Zeroes",
+        "description": "Maintenance is important!",
+        "link": "https://leetcode.com/problems/move-zeroes/"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 10,
+    "fields": {
+        "order": "3",
+        "name": "Immediate Smaller",
+        "description": "Be carefull!",
+        "link": "https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 11,
+    "fields": {
+        "order": "4",
+        "name": "Firsrt time k",
+        "description": "Learn about map<int , int>",
+        "link": "https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 12,
+    "fields": {
+        "order": "10",
+        "name": "Count nodes",
+        "description": "Learn Linked lists",
+        "link": "https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 13,
+    "fields": {
+        "order": "11",
+        "name": "Reverse Linked List",
+        "description": "just try to reverse the connection between two adjacent nodes.",
+        "link": "https://leetcode.com/problems/reverse-linked-list/"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 14,
+    "fields": {
+        "order": "12",
+        "name": "Is Circular",
+        "description": "Which Node->next will be NULL :)",
+        "link": "https://practice.geeksforgeeks.org/problems/circular-linked-list/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 15,
+    "fields": {
+        "order": "13",
+        "name": "Remove it",
+        "description": "Store two nodes at a time and think about deleting.",
+        "link": "https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 16,
+    "fields": {
+        "order": "14",
+        "name": "Remove it again!",
+        "description": "You can do it using array or vectors easily!(Can you do it without using them)(ans-stacks ahead)",
+        "link": "https://leetcode.com/problems/remove-nodes-from-linked-list/"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 17,
+    "fields": {
+        "order": "15",
+        "name": "Stack with LL",
+        "description": "give it a hard try!",
+        "link": "https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1?page=2&difficulty[]=-2&difficulty[]=-1&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 18,
+    "fields": {
+        "order": "16",
+        "name": "Next Greater",
+        "description": "Use stacks!",
+        "link": "https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 19,
+    "fields": {
+        "order": "17",
+        "name": "Left Smallest",
+        "description": "Do it yourself!",
+        "link": "https://practice.geeksforgeeks.org/problems/smallest-number-on-left3403/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 20,
+    "fields": {
+        "order": "18",
+        "name": "Trapping Rain Water",
+        "description": "It can also be done using stacks or prefix maximum and suffix maximum.",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 21,
+    "fields": {
+        "order": "19",
+        "name": "Queue through LL",
+        "description": "Study about queues from gfg.",
+        "link": "https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1?page=3&difficulty[]=-2&difficulty[]=-1&sortBy=submissions"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 22,
+    "fields": {
+        "order": "20",
+        "name": "Queue using Two Stacks",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/queue-using-two-stacks/problem"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 23,
+    "fields": {
+        "order": "21",
+        "name": "First Unique",
+        "description": "pop pop()!",
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string/description/"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 24,
+    "fields": {
+        "order": "17",
+        "name": "Valid Parentheses",
+        "description": "Last opening bracket will be closed first!",
+        "link": "https://leetcode.com/problems/valid-parentheses/description/"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 25,
+    "fields": {
+        "order": "22",
+        "name": "Recent Calls",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/number-of-recent-calls/description/"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 26,
+    "fields": {
+        "order": "23",
+        "name": "Design Circular Queue",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/design-circular-queue/"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 27,
+    "fields": {
+        "order": "24",
+        "name": "Buy tickets",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/time-needed-to-buy-tickets/description/"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 28,
+    "fields": {
+        "order": "25",
+        "name": "Sliding Maximum",
+        "description": "Deque will work.",
+        "link": "https://leetcode.com/problems/sliding-window-maximum/"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 29,
+    "fields": {
+        "order": "26",
+        "name": "Truck Tour",
+        "description": "multiple ways to do (queue and maths as well)",
+        "link": "https://www.hackerrank.com/challenges/truck-tour/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 30,
+    "fields": {
+        "order": "27",
+        "name": "Snake and Ladder",
+        "description": "Try hard!",
+        "link": "https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 31,
+    "fields": {
+        "order": "3",
+        "name": "Maximum Subarray Sum",
+        "description": "cur = max(cur + a[i] , a[i])//either we will add current element or we will start from this element..\r\nans = max(ans , cur)...",
+        "link": "https://cses.fi/problemset/task/1643"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 32,
+    "fields": {
+        "order": "18",
+        "name": "Skyscrapers (easy version)",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1313/problem/C1"
+    }
+},
+{
+    "model": "Home.beginner",
+    "pk": 33,
+    "fields": {
+        "order": "18",
+        "name": "Skyscrapers (hard version)",
+        "description": "Make two arrays of sums where sums1[i] means the maximum floors to the left of i which can be made, using stacks..",
+        "link": "https://codeforces.com/contest/1313/problem/C2"
+    }
+}
+]

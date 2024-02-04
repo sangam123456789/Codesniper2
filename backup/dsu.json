@@ -1,0 +1,92 @@
+[
+{
+    "model": "Home.dsu",
+    "pk": 1,
+    "fields": {
+        "order": "2",
+        "name": "Secret Passwords",
+        "description": "You have to find the number of connected components! so just check for each character which strings will be connected.",
+        "link": "https://codeforces.com/contest/1263/problem/D"
+    }
+},
+{
+    "model": "Home.dsu",
+    "pk": 2,
+    "fields": {
+        "order": "2",
+        "name": "Journey to the Moon",
+        "description": "We just want what number of people are there from different different countries use dsu!",
+        "link": "https://www.hackerrank.com/challenges/journey-to-the-moon/problem"
+    }
+},
+{
+    "model": "Home.dsu",
+    "pk": 3,
+    "fields": {
+        "order": "2",
+        "name": "Roads and Libraries",
+        "description": "Either you will make libraries in each city of connected cites or construct roads.",
+        "link": "https://www.hackerrank.com/challenges/torque-and-development/problem?isFullScreen=false"
+    }
+},
+{
+    "model": "Home.dsu",
+    "pk": 4,
+    "fields": {
+        "order": "3",
+        "name": "Mocha and Diana (Easy Version)",
+        "description": "You can make an edge only when they connect two nodes from different connected components, check if two nodes can be joined for both mocha and diana",
+        "link": "https://codeforces.com/contest/1559/problem/D1"
+    }
+},
+{
+    "model": "Home.dsu",
+    "pk": 5,
+    "fields": {
+        "order": "15",
+        "name": "Mocha and Diana (Hard Version)",
+        "description": "See editorial",
+        "link": "https://codeforces.com/contest/1559/problem/D2"
+    }
+},
+{
+    "model": "Home.dsu",
+    "pk": 6,
+    "fields": {
+        "order": "10",
+        "name": "Vlad and the Mountains",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1851/problem/G"
+    }
+},
+{
+    "model": "Home.dsu",
+    "pk": 7,
+    "fields": {
+        "order": "0",
+        "name": "Disjoint Sets Union",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/A"
+    }
+},
+{
+    "model": "Home.dsu",
+    "pk": 8,
+    "fields": {
+        "order": "1",
+        "name": "Disjoint Sets Union 2",
+        "description": "We can store the maximum and minimum of two connected components and while merging we should also make the required changes.",
+        "link": "https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/B"
+    }
+},
+{
+    "model": "Home.dsu",
+    "pk": 9,
+    "fields": {
+        "order": "2",
+        "name": "Experience",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/C"
+    }
+}
+]

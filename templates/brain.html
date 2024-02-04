@@ -1,0 +1,76 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block body %}
+
+<div class="container-fluid" style = "margin-top : 30px; margin-bottom : 30px;">
+	<div class="row">
+		<div class="col-sm-12">
+			<div id="inam" class="carousel slide" >
+				<div class="carousel-inner" >
+					
+					<div class="carousel-item active">
+						 <div class="container">
+						 	<div class="row">
+						 		
+						 		
+                                {% for i in questions|slice:"0:" %}
+                                
+                                    <div class="col-sm-18 col-lg-6">
+                                        <nav aria-label="breadcrumb">
+                                            <ol class="breadcrumb  btn-warning border border-dark" style = "margin-bottom:0.3rem;padding-top:2px;padding-bottom:2px;">
+                                              <li class="breadcrumb-item ">
+												<div class = "long-text" style="width : 440px;">
+												<a  href="{{i.link}}" target = "_blank">{{forloop.counter}}.  {{i.name}}</a>
+												</div>		
+											  </li>
+                                              {% comment %} <li class="breadcrumb-item active" aria-current="page">{{i.description}}</li> {% endcomment %}
+											  <button type="button" style = "padding-top :0px; padding-bottom:24px;height:23px;"  class="btn btn-secondary"  data-container="body" data-toggle="popover" data-placement="top" data-content="{{i.description}}">
+												Hint?
+											  </button>
+											  
+                                            </ol>
+                                          </nav>
+                                        
+                                    </div>
+                                    
+                                    {% if forloop.counter|divisibleby:26 and forloop.counter > 0 and not forloop.last %}
+                                        </div>
+                                        </div>
+                                        </div>
+                                        <div class="carousel-item ">
+                                            <div class="container">
+                                                <div class="row">
+                                    {% endif %}
+                                {% endfor %}
+						 		
+						 	</div>
+						 	
+						 </div>
+
+						
+					</div>
+                    
+                            
+				</div>
+				<a href="#inam" class="carousel-control-prev"  data-slide="prev">
+					<span class="carousel-control-prev-icon" style = "background-color : blue;"></span>
+				</a>
+				<a href="#inam" class="carousel-control-next"  data-slide="next">
+					<span class="carousel-control-next-icon" style = "background-color : blue;"></span>
+				</a>
+				
+			</div>
+			
+		</div>
+		
+	</div>
+	
+</div>
+
+
+
+
+{% endblock body %}
+

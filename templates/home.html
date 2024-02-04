@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block homeactive %} activ active {% endblock homeactive %}  
+{% block body %}
+
+
+
+
+<h2 class="text-center my-0" style = "padding-top : 3rem;font-size:20px;"> About the Content of website </h2>
+
+<p style = "margin-left:10px;">
+  <div class = "phoneme">
+  <br>
+  First of all I welcome you and hope you are doing great. The motive of this website is to provide you with the modern templates being used and coding question which are mostly not standard from different resources.
+  In the <strong>Templates</strong> section I have provided Links to various templates like Disjoint Set Union , Segment Tree , Lowest Common Ancestor , Prime Number Finder , Djikstra shortest path , Prims minimum spanning tree.
+    
+  </div>
+</p>
+
+<hr style = "background-color: #000; width:98%;">
+
+
+<h2 class="text-center my-0" style = "padding-top : 1rem;font-size:20px;"> Pattern of arrangement </h2>
+
+<p style = "margin-left:10px;">
+  <div class = "phoneme">
+  <br>
+  In the <strong>Starters</strong> section I have provided topics which are required for the basic understanding of code flow. Brain sharpeners include simple short thinking problem to increase the thinking process. Begginers are some standard data structure based problems.
+  In the <strong>Intermediate</strong> section the topics included are mostly based on the implementation and variety of use of various data structures like vector , stacks , sets , hashmaps , pair etc.
+  In the <strong>Advance</strong> section the topics are mostly focused on learning some advance ways to solve and visualize the problems. These are sometimes confusing but always interesting to solve!
+      
+      I have tried my best to arrange the problems in the <strong>increasing</strong> order of difficulty. Always remember that if you are stuck in some problem or solved a problem forcefully please look into others people submission you will definetily learn to code more efficiently.
+    
+  </div>
+</p>
+<hr style = "background-color: #000; width:98%;">
+
+ <h2 class="text-center my-0" style = "padding-top : 1rem;font-size:20px;"> About me </h2>
+ 
+ <p style = "margin-left:10px;">
+  <div class = "phoneme" >
+  <br>
+  {% comment %} <div class = "faltu" style = "margin-top : 10px; border-radius:13px; border : 2px solid black;">
+    <img src="{% static 'pic1.jpg' %}" style = "border-radius:13px;" width="200" height="200"   alt="...">
+  </div> {% endcomment %}
+
+  
+    So behind this website, myself <strong>Gaurav Singh</strong> from Uttar Pradesh and I am currently pursuing my undergraduate at <strong>IIT Kanpur</strong> from Material Science and Engineering department :). From these you have now understand that I am not much involved towards my department as it is more research oriented :). 
+    I have started my coding journey in my first year of college and I am still going on the path to learn concepts in more depth, so one nice day I was thinking to revise my previously done questions to check if I can improve them, In the process I came up with this idea to share my experience through this website and I enjoyed it really. 
+    My Codeforces profile is <a href = "https://codeforces.com/profile/Sangamer" target = "_blank">Sangamer.</a> 
+    Linkedin profile - <a href = "https://www.linkedin.com/in/gaurav-singh-2868a3228/" target = "_blank">Gaurav Singh.</a>
+    I will be pleased if you add my website to your bucket. Happy Coding!
+
+  {% if user.is_superuser %}
+    <p> Site is visited {{vis}} times.</p>
+  {% endif %}
+  </div>
+</p>
+ 
+<hr style = "background-color: #000; width:98%;">
+ 
+
+    {% if success %}
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.16.6/dist/sweetalert2.all.min.js"></script>
+    <script>
+      Swal.fire({
+        icon: 'success',
+            title: 'Welcome {{username}}!',
+            text: 'We are glad to have you here.',
+          });
+        </script>
+    {% endif %}
+
+   
+  {% endblock body %}
+      <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    

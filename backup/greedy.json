@@ -1,0 +1,212 @@
+[
+{
+    "model": "Home.greed",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Permutation Sort",
+        "description": "you can do it in 1 , 2 , 3 operations. no more than that",
+        "link": "https://codeforces.com/contest/1525/problem/B"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 2,
+    "fields": {
+        "order": "2",
+        "name": "GCD Partition",
+        "description": "In how many subsegments should we break the array! (2 will always work)!",
+        "link": "https://codeforces.com/contest/1780/problem/B"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 3,
+    "fields": {
+        "order": "3",
+        "name": "The Man or God",
+        "description": "Store the difference values and take the sum of required values to make it minimum.",
+        "link": "https://codeforces.com/contest/1847/problem/A"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 4,
+    "fields": {
+        "order": "4",
+        "name": "I Hate 1111",
+        "description": "Read the problem name again:)",
+        "link": "https://codeforces.com/contest/1526/problem/B"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 5,
+    "fields": {
+        "order": "1",
+        "name": "Stone Game",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1538/problem/A"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 6,
+    "fields": {
+        "order": "1",
+        "name": "Friends and Candies",
+        "description": "At the end how many candies will each person have = tot / n.",
+        "link": "https://codeforces.com/contest/1538/problem/B"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 7,
+    "fields": {
+        "order": "3",
+        "name": "Another Competition",
+        "description": "Pick the question which takes less time first.",
+        "link": "https://codeforces.com/contest/1846/problem/C"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 8,
+    "fields": {
+        "order": "2",
+        "name": "Two Arrays",
+        "description": "If sum of numbers  of two arrays is equal then the answer exist! An operation never changes the total sum.",
+        "link": "https://codeforces.com/contest/1546/problem/A"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 9,
+    "fields": {
+        "order": "1",
+        "name": "Cherry",
+        "description": "It is always optimum to choose the subarrays of length 2 only!",
+        "link": "https://codeforces.com/contest/1554/problem/A"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 10,
+    "fields": {
+        "order": "6",
+        "name": "Diane",
+        "description": "Can you make string using only 2 or three characters?",
+        "link": "https://codeforces.com/contest/1554/problem/D"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 11,
+    "fields": {
+        "order": "2",
+        "name": "Permutations & Primes",
+        "description": "We have to only consider the subarrays in which 1 is included so place 1 at middle of the array. try to make the mex 2 or 3.",
+        "link": "https://codeforces.com/contest/1844/problem/B"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 12,
+    "fields": {
+        "order": "2",
+        "name": "Gregor and the Pawn Game",
+        "description": "Try to locate each pawn from starting!",
+        "link": "https://codeforces.com/contest/1549/problem/B"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 13,
+    "fields": {
+        "order": "3",
+        "name": "Towers",
+        "description": "You just have to place the current cube to the tower with minimum last cube! if there is no such cube then you have to create a new tower!",
+        "link": "https://cses.fi/problemset/task/1073"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 14,
+    "fields": {
+        "order": "1",
+        "name": "Mocha and Red and Blue",
+        "description": "YOu can either start with B or R check for both cases and choose that is good!",
+        "link": "https://codeforces.com/contest/1559/problem/B"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 15,
+    "fields": {
+        "order": "1",
+        "name": "Not Dividing",
+        "description": "Just increase the current element by 1 if it is divisible by previous one.",
+        "link": "https://codeforces.com/contest/1794/problem/B"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 16,
+    "fields": {
+        "order": "1",
+        "name": "The Miracle and the Sleeper",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1562/problem/A"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 17,
+    "fields": {
+        "order": "1",
+        "name": "Desorting",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1853/problem/A"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 18,
+    "fields": {
+        "order": "5",
+        "name": "Imbalanced Arrays",
+        "description": "Start filling with the maximum a[i]...",
+        "link": "https://codeforces.com/contest/1853/problem/D"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 19,
+    "fields": {
+        "order": "2",
+        "name": "Tiles Comeback",
+        "description": "It is good if you can do it using only one or two different type of colors.",
+        "link": "https://codeforces.com/contest/1851/problem/C"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 20,
+    "fields": {
+        "order": "2",
+        "name": "Monsters",
+        "description": "What will happen if all the numbers are divisible by k?",
+        "link": "https://codeforces.com/contest/1849/problem/B"
+    }
+},
+{
+    "model": "Home.greed",
+    "pk": 21,
+    "fields": {
+        "order": "1",
+        "name": "Dalton the Teacher",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1855/problem/A"
+    }
+}
+]

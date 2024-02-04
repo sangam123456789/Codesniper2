@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+
+
+{% block signupactive %}active{% endblock signupactive %}
+{% block body %}
+
+{% if exist %}
+          <div class="alert alert-danger alert-dismissible fade show" style = "margin-top : 56px;" role="alert">
+            <strong>Oops!</strong> You have entered an already existing email.
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>  
+{% endif %}
+<h2 class="text-center my-0" style = "padding-top : 4rem;"> Please create an account for better experience. </h2>
+<form class="active mx-5" action="/signup" method="post" style = "margin-bottom : 77px; margin-top : 20px;">
+    {% csrf_token %}
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputName4" style = "font-weight : bold;">First name</label>
+            <input type="text" class="form-control" id="fname" name="fname" placeholder="first name">
+          </div>
+          <div class="form-group col-md-6">
+            <label for="inputName4"style = "font-weight : bold;">Last name</label>
+            <input type="text" class="form-control" id="lname" name = "lname" placeholder="last name">
+          </div>
+        </div>  
+        
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputEmail4"style = "font-weight : bold;">Email</label>
+            <input type="email" class="form-control" id="email" name = "email" placeholder="Email">
+          </div>
+          <div class="form-group col-md-6">
+            <label for="inputName4"style = "font-weight : bold;">Username</label>
+            <input type="text" class="form-control" id="username" name = "username" placeholder="What should we call you?">
+          </div>
+        </div>
+        
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputPassword4"style = "font-weight : bold;">Password</label>
+            <input type="password" class="form-control" id="pass1" name="pass1" placeholder="Password">
+          </div>
+          <div class="form-group col-md-6">
+            <label for="inputPassword4"style = "font-weight : bold;">Confirm Password</label>
+            <input type="password" class="form-control" id="pass2" name="pass2" placeholder="confirm your password">
+          </div>
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Create Account</button>
+      </form>
+
+      
+
+      {% if nsent %}
+          <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.16.6/dist/sweetalert2.all.min.js"></script>
+          <script>
+            Swal.fire({
+              icon: 'error',
+              title: 'Oops! Signup Failed',
+              text: 'Please enter your correct details..(e.g, first name lenght > 0, username len > 0, both passwords should be same!)',
+            });
+          </script>
+      {% endif %}
+  {% endblock body %}

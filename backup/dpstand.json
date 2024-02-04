@@ -1,0 +1,172 @@
+[
+{
+    "model": "Home.dpstand",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Fibonacci Numbers",
+        "description": "Do it yourself!",
+        "link": "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 2,
+    "fields": {
+        "order": "2",
+        "name": "Climbing Stairs",
+        "description": "How can you reach to a step 5, coming from 4 or coming from 3.",
+        "link": "https://leetcode.com/problems/climbing-stairs/"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 3,
+    "fields": {
+        "order": "3",
+        "name": "Unique Paths",
+        "description": "dp[i][j]  = dp[i - 1][j] + dp[i][j - 1]",
+        "link": "https://leetcode.com/problems/unique-paths/"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 4,
+    "fields": {
+        "order": "4",
+        "name": "Dice Combinations",
+        "description": "Just add the previous dp..",
+        "link": "https://cses.fi/problemset/task/1633"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 5,
+    "fields": {
+        "order": "5",
+        "name": "Minimizing Coins",
+        "description": "https://cses.fi/problemset/result/3786580/",
+        "link": "https://cses.fi/problemset/task/1634"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 6,
+    "fields": {
+        "order": "6",
+        "name": "Set Partition",
+        "description": "Do it yourself!",
+        "link": "https://www.geeksforgeeks.org/bell-numbers-number-of-ways-to-partition-a-set/"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 7,
+    "fields": {
+        "order": "7",
+        "name": "Rod Cutting",
+        "description": "Do it yourself!",
+        "link": "https://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 8,
+    "fields": {
+        "order": "8",
+        "name": "nCr % p",
+        "description": "Remenber the Property =  C(n, r) = C(n-1, r-1) + C(n-1, r)",
+        "link": "https://www.geeksforgeeks.org/introduction-and-dynamic-programming-solution-to-compute-ncrp/"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 9,
+    "fields": {
+        "order": "9",
+        "name": "Coin Combinations I",
+        "description": "Do it yourself!",
+        "link": "https://cses.fi/problemset/task/1635"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 10,
+    "fields": {
+        "order": "10",
+        "name": "Coin Combinations II",
+        "description": "Loop exchange :)",
+        "link": "https://cses.fi/problemset/task/1636"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 11,
+    "fields": {
+        "order": "11",
+        "name": "Min Cost Climbing Stairs",
+        "description": "Looks similar to some previous problem :)",
+        "link": "https://leetcode.com/problems/min-cost-climbing-stairs/"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 12,
+    "fields": {
+        "order": "12",
+        "name": "LCS",
+        "description": "2d dp[i][j]  representing the answer for i length of first string and j length of second string..",
+        "link": "https://www.geeksforgeeks.org/longest-common-subsequence/"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 13,
+    "fields": {
+        "order": "13",
+        "name": "Palindromic Subsequence",
+        "description": "The problem is same as LCS problem just think of reversing the original string :)",
+        "link": "https://leetcode.com/problems/longest-palindromic-subsequence/"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 14,
+    "fields": {
+        "order": "14",
+        "name": "LIS",
+        "description": "Do it yourself!",
+        "link": "https://www.geeksforgeeks.org/longest-increasing-subsequence/"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 15,
+    "fields": {
+        "order": "15",
+        "name": "Removing Digits",
+        "description": "dp[i]  represents answer to make number i  to zero..",
+        "link": "https://cses.fi/problemset/task/1637"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 16,
+    "fields": {
+        "order": "16",
+        "name": "Edit Distance",
+        "description": "dp[i][j] represents the min operations to transform i length of string s1 to j length of string s2. Think how can we find it using previous dp states",
+        "link": "https://cses.fi/problemset/task/1639"
+    }
+},
+{
+    "model": "Home.dpstand",
+    "pk": 17,
+    "fields": {
+        "order": "17",
+        "name": "Obstacled Grid",
+        "description": "Just check for the obstacles..",
+        "link": "https://www.geeksforgeeks.org/unique-paths-in-a-grid-with-obstacles/"
+    }
+}
+]

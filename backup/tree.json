@@ -1,0 +1,132 @@
+[
+{
+    "model": "Home.tree",
+    "pk": 1,
+    "fields": {
+        "order": "10",
+        "name": "Li Hua and Tree",
+        "description": "Store the required information! And apply the operations.",
+        "link": "https://codeforces.com/contest/1797/problem/D"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 2,
+    "fields": {
+        "order": "5",
+        "name": "Closest Nodes Queries in a Binary Search Tree",
+        "description": "All nodes have distinct value so collect the node values and find the answer using lowerbound and upperbound!",
+        "link": "https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 3,
+    "fields": {
+        "order": "4",
+        "name": "Operations to Sort a Binary Tree by Level",
+        "description": "Do BFS to group the value level by level.",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 4,
+    "fields": {
+        "order": "20",
+        "name": "Tenzing and Tree",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1842/problem/F"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 5,
+    "fields": {
+        "order": "1",
+        "name": "Sum in Binary Tree",
+        "description": "parent of x = x / 2.",
+        "link": "https://codeforces.com/contest/1843/problem/C"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 6,
+    "fields": {
+        "order": "3",
+        "name": "Apple Tree",
+        "description": "The apple can only fall through the leafs in a subtree of the node where apple initially was.",
+        "link": "https://codeforces.com/contest/1843/problem/D"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 7,
+    "fields": {
+        "order": "4",
+        "name": "Omsk Metro (simple version)",
+        "description": "If the  max-path sum between u to v is greater than k then yes, so we have to use kadane on tree in dfs.",
+        "link": "https://codeforces.com/contest/1843/problem/F1"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 8,
+    "fields": {
+        "order": "10",
+        "name": "Omsk Metro (hard version)",
+        "description": "Binary lifting..",
+        "link": "https://codeforces.com/contest/1843/problem/F2"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 9,
+    "fields": {
+        "order": "6",
+        "name": "Burning Tree",
+        "description": "Do it yourself!",
+        "link": "https://practice.geeksforgeeks.org/problems/burning-tree/1"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 10,
+    "fields": {
+        "order": "3",
+        "name": "PermuTree (easy version)",
+        "description": "This can be done using knapsack dp.",
+        "link": "https://codeforces.com/contest/1856/problem/E1"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 11,
+    "fields": {
+        "order": "6",
+        "name": "PermuTree (hard version)",
+        "description": "There can be atmost square root n distinct numbers if the sum of them is less than n.",
+        "link": "https://codeforces.com/contest/1856/problem/E2"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 12,
+    "fields": {
+        "order": "5",
+        "name": "Gardening Friends",
+        "description": "How diameter nodes of a tree are useful here?",
+        "link": "https://codeforces.com/contest/1822/problem/F"
+    }
+},
+{
+    "model": "Home.tree",
+    "pk": 13,
+    "fields": {
+        "order": "7",
+        "name": "Difference Between Maximum and Minimum Price Sum",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/"
+    }
+}
+]

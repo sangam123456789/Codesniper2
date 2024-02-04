@@ -1,0 +1,322 @@
+[
+{
+    "model": "Home.pair",
+    "pk": 1,
+    "fields": {
+        "order": "8",
+        "name": "Dividing Numbers",
+        "description": "Calculate the number of prime factors in sqrt(n) time , check if sum of prime factors of a and b is >= k!(edge cases also)",
+        "link": "https://codeforces.com/contest/1538/problem/D"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 2,
+    "fields": {
+        "order": "9",
+        "name": "Interesting Function",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1538/problem/F"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 3,
+    "fields": {
+        "order": "3",
+        "name": "Christmas Tree",
+        "description": "Use double and the formula for area of section of an isosceles triangle.",
+        "link": "https://codeforces.com/contest/1846/problem/D"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 4,
+    "fields": {
+        "order": "15",
+        "name": "AquaMoon and Chess",
+        "description": "https://codeforces.com/blog/entry/92739",
+        "link": "https://codeforces.com/contest/1546/problem/D"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 5,
+    "fields": {
+        "order": "2",
+        "name": "Find The Array",
+        "description": "1 should be present in the array , then we can put 3 then 5 and so on , 1 + 3 + 5 + 7 + 9 ... <= s. if the sum is less than s then we can add an element.",
+        "link": "https://codeforces.com/contest/1550/problem/A"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 6,
+    "fields": {
+        "order": "3",
+        "name": "Maximum Cost Deletion",
+        "description": "if b is positive then you can delete one character at a time and get answer as a*n+b*n. if b < 0, then you should delete as largest substrings as you can!",
+        "link": "https://codeforces.com/contest/1550/problem/B"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 7,
+    "fields": {
+        "order": "2",
+        "name": "Binary Decimal",
+        "description": "The digit with max value is the answer!",
+        "link": "https://codeforces.com/contest/1530/problem/A"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 8,
+    "fields": {
+        "order": "1",
+        "name": "Digits Sum",
+        "description": "ex-  (9 , 10)  (99 , 100) etc..",
+        "link": "https://codeforces.com/contest/1553/problem/A"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 9,
+    "fields": {
+        "order": "4",
+        "name": "Penalty",
+        "description": "https://codeforces.com/blog/entry/93105",
+        "link": "https://codeforces.com/contest/1553/problem/C"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 10,
+    "fields": {
+        "order": "10",
+        "name": "Maximize the Intersections",
+        "description": "Connect Diagonally opposite points to maximize intersections!",
+        "link": "https://codeforces.com/contest/1552/problem/C"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 11,
+    "fields": {
+        "order": "7",
+        "name": "Climbing the Tree",
+        "description": "Just create two variables left and right to store the range of height that is possible. Think how l will and r be decided!",
+        "link": "https://codeforces.com/contest/1810/problem/D"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 12,
+    "fields": {
+        "order": "5",
+        "name": "Everyone is a Winner!",
+        "description": "consider example - n = 25 , 25 / 9 = 2 , 25 / 12 = 2  , also 25 / 2 = 12 , hence you know the last number upto wihich you rating will increase by 2.",
+        "link": "https://codeforces.com/contest/1263/problem/C"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 13,
+    "fields": {
+        "order": "2",
+        "name": "Sweet Problem",
+        "description": "We want to make two groups as equal as possible!",
+        "link": "https://codeforces.com/contest/1263/problem/A"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 14,
+    "fields": {
+        "order": "1",
+        "name": "Tenzing and Tsondu",
+        "description": "What about the sum!",
+        "link": "https://codeforces.com/contest/1842/problem/A"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 15,
+    "fields": {
+        "order": "1",
+        "name": "Gregor and Cryptography",
+        "description": "P is prime! , what about a = 2 and b = p - 1 :)",
+        "link": "https://codeforces.com/contest/1549/problem/A"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 16,
+    "fields": {
+        "order": "2",
+        "name": "Sharing Candies",
+        "description": "The diff between any two numbers is always some multiple of their gcd!",
+        "link": "https://www.codechef.com/problems/GIVCANDY?tab=statement"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 17,
+    "fields": {
+        "order": "2",
+        "name": "Charmed by the Game",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1561/problem/B"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 18,
+    "fields": {
+        "order": "5",
+        "name": "Rings",
+        "description": "What will be the answer if there is no zero!",
+        "link": "https://codeforces.com/contest/1562/problem/C"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 19,
+    "fields": {
+        "order": "1",
+        "name": "A Variety of Operations",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1556/problem/A"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 20,
+    "fields": {
+        "order": "10",
+        "name": "Vika and Price Tags",
+        "description": "Do the process for only two variables a and b..",
+        "link": "https://codeforces.com/contest/1848/problem/C"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 21,
+    "fields": {
+        "order": "5",
+        "name": "The two numbers",
+        "description": "a * b = gcd(a , b) * lcm(a , b)",
+        "link": "https://www.codechef.com/problems/TWONUMBERS?tab=statement"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 22,
+    "fields": {
+        "order": "6",
+        "name": "Cardboard for Pictures",
+        "description": "Make the required quadratic equation on w, and make the coefficient of w^2   1  by dividing 4 * n,  so This implies that 4n is the factor of the other two coefficients.",
+        "link": "https://codeforces.com/contest/1850/problem/E"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 23,
+    "fields": {
+        "order": "5",
+        "name": "We Were Both Children",
+        "description": "For each i from 1 to n check which factors of i are present in the array..",
+        "link": "https://codeforces.com/contest/1850/problem/F"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 24,
+    "fields": {
+        "order": "3",
+        "name": "Fibonaccharsis",
+        "description": "if you fix the first two or last two numbers then the whole sequence is fixed.",
+        "link": "https://codeforces.com/contest/1853/problem/B"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 25,
+    "fields": {
+        "order": "7",
+        "name": "Carrying Conundrum",
+        "description": "The addition is being done in the alternate digits.",
+        "link": "https://codeforces.com/contest/1567/problem/C"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 26,
+    "fields": {
+        "order": "10",
+        "name": "Expression Evaluation Error",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1567/problem/D"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 27,
+    "fields": {
+        "order": "1",
+        "name": "Longest Divisors Interval",
+        "description": "What if i say that my L is fixed to 1?",
+        "link": "https://codeforces.com/contest/1855/problem/B"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 28,
+    "fields": {
+        "order": "4",
+        "name": "Jury Meeting",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1569/problem/C"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 29,
+    "fields": {
+        "order": "5",
+        "name": "Minimize the Maximum of Two Arrays",
+        "description": "You can use binary search also on the answer.",
+        "link": "https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 30,
+    "fields": {
+        "order": "3",
+        "name": "Count Anagrams",
+        "description": "Learn about modulo inverse.",
+        "link": "https://leetcode.com/problems/count-anagrams/"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 31,
+    "fields": {
+        "order": "1",
+        "name": "Array Coloring",
+        "description": "Observe the count of odd numbers.",
+        "link": "https://codeforces.com/contest/1857/problem/A"
+    }
+},
+{
+    "model": "Home.pair",
+    "pk": 32,
+    "fields": {
+        "order": "3",
+        "name": "Sum and Product",
+        "description": "Note that there are two equations given and there are only two unknowns!",
+        "link": "https://codeforces.com/contest/1857/problem/F"
+    }
+}
+]

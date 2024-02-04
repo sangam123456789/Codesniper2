@@ -1,0 +1,182 @@
+[
+{
+    "model": "Home.pointer",
+    "pk": 1,
+    "fields": {
+        "order": "6",
+        "name": "Backspace",
+        "description": "Take a pointer pointing to end of s and one pointing to end of t. If the characters are not equal then we should decrease both pointers by two.(due to backspace effect) https://codeforces.com/contest/1553/submission/123959205",
+        "link": "https://codeforces.com/contest/1553/problem/D"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 2,
+    "fields": {
+        "order": "5",
+        "name": "Particles",
+        "description": "What if all the numbers are positive in the array! Can you find a way to answer that.",
+        "link": "https://codeforces.com/contest/1844/problem/C"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 3,
+    "fields": {
+        "order": "2",
+        "name": "Sum of Two Values",
+        "description": "Just sort the array and check first and last element sum , if it is less then ove left pointer else move right!",
+        "link": "https://cses.fi/problemset/task/1640"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 4,
+    "fields": {
+        "order": "4",
+        "name": "Playlist",
+        "description": "Maintain a frequency map of elements of current range l to r ,  if we encounter a element which is already present then we have to delete some range from l such that we again get all elements only one time.",
+        "link": "https://cses.fi/problemset/task/1141"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 5,
+    "fields": {
+        "order": "2",
+        "name": "Scoring Subsequences",
+        "description": "Array is increasing, we can always add an element to our subsquence if it is greater than equal to the cur length of subsequence!",
+        "link": "https://codeforces.com/contest/1794/problem/C"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 6,
+    "fields": {
+        "order": "2",
+        "name": "Balanced Round",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1850/problem/D"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 7,
+    "fields": {
+        "order": "1",
+        "name": "Long Long",
+        "description": "You can always make all negative elements positive so just make positive the ranges that contain only negative elements.",
+        "link": "https://codeforces.com/contest/1843/problem/B"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 8,
+    "fields": {
+        "order": "1",
+        "name": "Divide Players Into Teams of Equal Skill",
+        "description": "Sort the array, then first and last element should be our first grp and so on..",
+        "link": "https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 9,
+    "fields": {
+        "order": "1",
+        "name": "Merging Arrays",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/A"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 10,
+    "fields": {
+        "order": "1",
+        "name": "Number of Smaller",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 11,
+    "fields": {
+        "order": "1",
+        "name": "Number of Equal",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 12,
+    "fields": {
+        "order": "2",
+        "name": "Segment with Small Sum",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 13,
+    "fields": {
+        "order": "2",
+        "name": "Segment with Big Sum",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 14,
+    "fields": {
+        "order": "3",
+        "name": "Number of Segments with Small Sum",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 15,
+    "fields": {
+        "order": "3",
+        "name": "Segments with Small Set",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/E"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 16,
+    "fields": {
+        "order": "4",
+        "name": "Segments with Small Spread",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 17,
+    "fields": {
+        "order": "5",
+        "name": "Coprime Segment",
+        "description": "Gcd decreases on increasing the number of numbers.",
+        "link": "https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/G"
+    }
+},
+{
+    "model": "Home.pointer",
+    "pk": 18,
+    "fields": {
+        "order": "4",
+        "name": "Count the Number of Good Subarrays",
+        "description": "Observe that if subarray from index 2 to 4 is valid then all the subarrays including this subarray will also be valid.",
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subarrays/"
+    }
+}
+]

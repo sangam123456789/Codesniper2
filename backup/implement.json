@@ -1,0 +1,282 @@
+[
+{
+    "model": "Home.implement",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Pascal's Triangle",
+        "description": "Just be careful!",
+        "link": "https://leetcode.com/problems/pascals-triangle/"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 2,
+    "fields": {
+        "order": "2",
+        "name": "Sum of Cubes",
+        "description": "Think about the range of loops!",
+        "link": "https://codeforces.com/contest/1490/problem/C"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 3,
+    "fields": {
+        "order": "3",
+        "name": "Multiply Strings",
+        "description": "Be patient at look for edge cases.",
+        "link": "https://leetcode.com/problems/multiply-strings/"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 4,
+    "fields": {
+        "order": "7",
+        "name": "Water and Jug Problem",
+        "description": "Use BFS",
+        "link": "https://leetcode.com/problems/water-and-jug-problem/"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 5,
+    "fields": {
+        "order": "3",
+        "name": "Relocate Marbles",
+        "description": "Maintain a set of places where marbles are located just erase and insert accordingly finally the answer is the elements of set.",
+        "link": "https://leetcode.com/problems/relocate-marbles/"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 6,
+    "fields": {
+        "order": "7",
+        "name": "Number of Black Blocks",
+        "description": "Iterate over the black cell and cnt the contribution of this . A black cell can be present in 4 different blocks but make sure you are not recounting!",
+        "link": "https://leetcode.com/problems/number-of-black-blocks/"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 7,
+    "fields": {
+        "order": "4",
+        "name": "Putting Plates",
+        "description": "Just check some cases and observations",
+        "link": "https://codeforces.com/contest/1530/problem/B"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 8,
+    "fields": {
+        "order": "2",
+        "name": "Reverse String",
+        "description": "Start at some index i and check if you can make string t or not brute forcely.",
+        "link": "https://codeforces.com/contest/1553/problem/B"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 9,
+    "fields": {
+        "order": "2",
+        "name": "Apply Operations to Make All Array Elements Equal to Zero",
+        "description": "https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/submissions/990712308/  (make an array c to store the value that should be added when you are coming out of a subarray!)",
+        "link": "https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 10,
+    "fields": {
+        "order": "1",
+        "name": "PIN Codes",
+        "description": "Note that you can make all the cards different just by using different numbers at 1 position!",
+        "link": "https://codeforces.com/contest/1263/problem/B"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 11,
+    "fields": {
+        "order": "1",
+        "name": "Scenes From a Memory",
+        "description": "Prime digits are 2 , 3 , 5 , 7. so if we have some digit other than these we can take it as composite. If string contains only these digits then consider all possible 2 digit composites that can be formed from these prime digits.",
+        "link": "https://codeforces.com/contest/1562/problem/B"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 12,
+    "fields": {
+        "order": "3",
+        "name": "Take Your Places!",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1556/problem/B"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 13,
+    "fields": {
+        "order": "10",
+        "name": "Compressed Bracket Sequence",
+        "description": "See editorial!",
+        "link": "https://codeforces.com/contest/1556/problem/C"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 14,
+    "fields": {
+        "order": "4",
+        "name": "Vika and the Bridge",
+        "description": "Just check for every k what is minimum jumps required!",
+        "link": "https://codeforces.com/contest/1848/problem/B"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 15,
+    "fields": {
+        "order": "1",
+        "name": "Fast Food Restaurant",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1313/problem/A"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 16,
+    "fields": {
+        "order": "0",
+        "name": "Word on the Paper",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1850/problem/C"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 17,
+    "fields": {
+        "order": "2",
+        "name": "Prefix Permutation Sums",
+        "description": "What should be the last number in the original prefix array. (1 + 2 + 3 + 4...+ n)",
+        "link": "https://codeforces.com/contest/1851/problem/D"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 18,
+    "fields": {
+        "order": "4",
+        "name": "Array Painting",
+        "description": "Implement it carefully.",
+        "link": "https://codeforces.com/contest/1849/problem/D"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 19,
+    "fields": {
+        "order": "0",
+        "name": "Domino Disaster",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1567/problem/A"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 20,
+    "fields": {
+        "order": "3",
+        "name": "Dual (Easy Version)",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1855/problem/C1"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 21,
+    "fields": {
+        "order": "4",
+        "name": "Dual (Hard Version)",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1855/problem/C2"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 22,
+    "fields": {
+        "order": "1",
+        "name": "Chess Tournament",
+        "description": "Two players cannot have expectation of type 1.",
+        "link": "https://codeforces.com/contest/1569/problem/B"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 23,
+    "fields": {
+        "order": "1",
+        "name": "Longest Square Streak in an Array",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/longest-square-streak-in-an-array/"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 24,
+    "fields": {
+        "order": "1",
+        "name": "Smallest Value After Replacing With Sum of Prime Factors",
+        "description": "Just stimulate the process using sieve technique!",
+        "link": "https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 25,
+    "fields": {
+        "order": "3",
+        "name": "Reward Top K Students",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/reward-top-k-students/"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 26,
+    "fields": {
+        "order": "1",
+        "name": "Tales of a Sort",
+        "description": "We should have to make sorted every a[i] and a[i + 1].",
+        "link": "https://codeforces.com/contest/1856/problem/A"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 27,
+    "fields": {
+        "order": "1",
+        "name": "Shortest Distance to Target String in a Circular Array",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/"
+    }
+},
+{
+    "model": "Home.implement",
+    "pk": 28,
+    "fields": {
+        "order": "0",
+        "name": "Maximum Rounding",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1857/problem/B"
+    }
+}
+]

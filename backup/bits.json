@@ -1,0 +1,222 @@
+[
+{
+    "model": "Home.bit",
+    "pk": 1,
+    "fields": {
+        "order": "2",
+        "name": "And Then There Were K",
+        "description": "Learn some properties of Bitwise And , Or , Xor etc..  https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/",
+        "link": "https://codeforces.com/contest/1527/problem/A"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 2,
+    "fields": {
+        "order": "18",
+        "name": "Bit Guessing Game",
+        "description": "How the bit count will change if you subtract a single bit ! Write down some cases!",
+        "link": "https://codeforces.com/contest/1780/problem/D"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 3,
+    "fields": {
+        "order": "7",
+        "name": "Hamon Odyssey",
+        "description": "The sum will be minimum when you take bitwise and of whole array!",
+        "link": "https://codeforces.com/contest/1847/problem/B"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 4,
+    "fields": {
+        "order": "8",
+        "name": "Vampiric Powers, anyone?",
+        "description": "The answer is maximum XOR subarray!",
+        "link": "https://codeforces.com/contest/1847/problem/C"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 19,
+    "fields": {
+        "order": "11",
+        "name": "Mikasa",
+        "description": "if  n^k == x , then n ^ x == k ,",
+        "link": "https://codeforces.com/contest/1554/problem/C"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 23,
+    "fields": {
+        "order": "2",
+        "name": "Tenzing and Books",
+        "description": "From each stack we can only choose the prefix of  books upto which their bitwise or with x is equal to x!",
+        "link": "https://codeforces.com/contest/1842/problem/B"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 24,
+    "fields": {
+        "order": "1",
+        "name": "Mocha and Math",
+        "description": "Bitwise and always decreases on increasing the number of times it is done, to know the minimum we can take whole array bitwise AND.",
+        "link": "https://codeforces.com/contest/1559/problem/A"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 25,
+    "fields": {
+        "order": "20",
+        "name": "Vika and Wiki",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1848/problem/F"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 26,
+    "fields": {
+        "order": "5",
+        "name": "Split AND Sum",
+        "description": "Do it yourself!",
+        "link": "https://www.codechef.com/problems/SPLITANDSUM?tab=statement"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 27,
+    "fields": {
+        "order": "3",
+        "name": "Simple XOR",
+        "description": "What will be the xor of four consecutive numbers starting from even and odd!",
+        "link": "https://www.codechef.com/problems/SIMPLE_XOR?tab=statement"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 28,
+    "fields": {
+        "order": "9",
+        "name": "Maximize Ones",
+        "description": "Consider corner cases, when starting and ending both have 1, if we cannot change anything print the string given, else if there is atleast one 1 then we can make all possible indices 1.",
+        "link": "https://www.codechef.com/problems/MAXONES"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 29,
+    "fields": {
+        "order": "19",
+        "name": "Yet Another Bitwise Problem",
+        "description": "Do it yourself!",
+        "link": "https://www.codechef.com/problems/ORXOR2"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 30,
+    "fields": {
+        "order": "10",
+        "name": "Lisa and the Martians",
+        "description": "Think about the adjacent elements after sorting the array!",
+        "link": "https://codeforces.com/contest/1851/problem/F"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 31,
+    "fields": {
+        "order": "2",
+        "name": "MEXor Mixup",
+        "description": "What is the xor of numbers from 1 to n?, take some examples.",
+        "link": "https://codeforces.com/contest/1567/problem/B"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 32,
+    "fields": {
+        "order": "7",
+        "name": "Xor-sequence",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/xor-se/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 33,
+    "fields": {
+        "order": "6",
+        "name": "The Great XOR",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/the-great-xor/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 34,
+    "fields": {
+        "order": "1",
+        "name": "Flipping bits",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/flipping-bits/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 35,
+    "fields": {
+        "order": "15",
+        "name": "Yet Another Minimax Problem",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/yet-another-minimax-problem/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 36,
+    "fields": {
+        "order": "5",
+        "name": "Sansa and XOR",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/sansa-and-xor/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 37,
+    "fields": {
+        "order": "7",
+        "name": "Cipher",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/cipher/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 38,
+    "fields": {
+        "order": "10",
+        "name": "Maximizing the Function",
+        "description": "Do it yourself!",
+        "link": "https://www.hackerrank.com/challenges/maximizing-the-function/problem?isFullScreen=true"
+    }
+},
+{
+    "model": "Home.bit",
+    "pk": 39,
+    "fields": {
+        "order": "4",
+        "name": "Find Xor-Beauty of Array",
+        "description": "What will be the Xor of elements of the array?",
+        "link": "https://leetcode.com/problems/find-xor-beauty-of-array"
+    }
+}
+]

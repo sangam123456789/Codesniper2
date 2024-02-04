@@ -1,0 +1,82 @@
+[
+{
+    "model": "Home.sub",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Partial Replacement",
+        "description": "See other people's code!",
+        "link": "https://codeforces.com/contest/1506/problem/B"
+    }
+},
+{
+    "model": "Home.sub",
+    "pk": 2,
+    "fields": {
+        "order": "2",
+        "name": "Double-ended Strings",
+        "description": "Some inbuilt functions-  https://cplusplus.com/reference/string/string/substr/",
+        "link": "https://codeforces.com/contest/1506/problem/C"
+    }
+},
+{
+    "model": "Home.sub",
+    "pk": 3,
+    "fields": {
+        "order": "3",
+        "name": "Restoring the Permutation",
+        "description": "Sets in C++!",
+        "link": "https://codeforces.com/contest/1506/problem/E"
+    }
+},
+{
+    "model": "Home.sub",
+    "pk": 4,
+    "fields": {
+        "order": "3",
+        "name": "Make Subsequence",
+        "description": "Just check one by one for characters of string t upto which we can get the subsequence in string s.",
+        "link": "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/"
+    }
+},
+{
+    "model": "Home.sub",
+    "pk": 5,
+    "fields": {
+        "order": "13",
+        "name": "Professor Higashikata",
+        "description": "Store the values at indices which are in ranges only once in order they are given. and have a count of 1's in this using segment tree.",
+        "link": "https://codeforces.com/contest/1847/problem/D"
+    }
+},
+{
+    "model": "Home.sub",
+    "pk": 6,
+    "fields": {
+        "order": "20",
+        "name": "Funny Substrings",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1538/problem/E"
+    }
+},
+{
+    "model": "Home.sub",
+    "pk": 7,
+    "fields": {
+        "order": "4",
+        "name": "Stolen String",
+        "description": "the positions of a charcter is not changing! the frequency of every character at any position should remain same!",
+        "link": "https://codeforces.com/contest/1546/problem/B"
+    }
+},
+{
+    "model": "Home.sub",
+    "pk": 8,
+    "fields": {
+        "order": "5",
+        "name": "Manhattan Subarrays",
+        "description": "A subarray of length >= 5 can never be good!",
+        "link": "https://codeforces.com/contest/1550/problem/C"
+    }
+}
+]

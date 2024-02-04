@@ -1,0 +1,302 @@
+[
+{
+    "model": "Home.brain",
+    "pk": 1,
+    "fields": {
+        "order": "1",
+        "name": "Space Navigation",
+        "description": "Simple coordinate",
+        "link": "https://codeforces.com/contest/1481/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 2,
+    "fields": {
+        "order": "3",
+        "name": "Add and Divide",
+        "description": "Observationol",
+        "link": "https://codeforces.com/contest/1485/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 3,
+    "fields": {
+        "order": "2",
+        "name": "Arena",
+        "description": "Do you know about minimum!",
+        "link": "https://codeforces.com/contest/1487/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 4,
+    "fields": {
+        "order": "5",
+        "name": "Dense Array",
+        "description": "Aree!",
+        "link": "https://codeforces.com/contest/1490/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 5,
+    "fields": {
+        "order": "4",
+        "name": "Prepend and Append",
+        "description": "Think in reverse!",
+        "link": "https://codeforces.com/contest/1791/problem/C"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 6,
+    "fields": {
+        "order": "6",
+        "name": "Strange Table",
+        "description": "Don't forget to use long long int :)",
+        "link": "https://codeforces.com/contest/1506/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 7,
+    "fields": {
+        "order": "7",
+        "name": "GCD Sum",
+        "description": "Builtin __gcd(a , b) function..",
+        "link": "https://codeforces.com/contest/1498/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 8,
+    "fields": {
+        "order": "8",
+        "name": "Box Fitting",
+        "description": "See the editorial",
+        "link": "https://codeforces.com/contest/1498/problem/B"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 9,
+    "fields": {
+        "order": "9",
+        "name": "Rotate Image",
+        "description": "Think about the next position of the cell!",
+        "link": "https://leetcode.com/problems/rotate-image/"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 10,
+    "fields": {
+        "order": "6",
+        "name": "Count Primes",
+        "description": "Also learn -  https://www.geeksforgeeks.org/sieve-of-eratosthenes/",
+        "link": "https://leetcode.com/problems/count-primes/"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 14,
+    "fields": {
+        "order": "9",
+        "name": "Li Hua and Pattern",
+        "description": "You have to apply exactly k operations.",
+        "link": "https://codeforces.com/contest/1797/problem/B"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 15,
+    "fields": {
+        "order": "6",
+        "name": "Li Hua and Maze",
+        "description": "Answer can be 2 , 3 or 4. Also check both cells for which ans is min.",
+        "link": "https://codeforces.com/contest/1797/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 16,
+    "fields": {
+        "order": "3",
+        "name": "Potion-making",
+        "description": "gcd?",
+        "link": "https://codeforces.com/contest/1525/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 17,
+    "fields": {
+        "order": "10",
+        "name": "Palindrome Game(e)",
+        "description": "who will win if cnt0 is even and odd.",
+        "link": "https://codeforces.com/contest/1527/problem/B1"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 18,
+    "fields": {
+        "order": "10",
+        "name": "Palindrome Game(h)",
+        "description": "What alice can do if the initial string is not palindrome- reverse.",
+        "link": "https://codeforces.com/contest/1527/problem/B2"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 19,
+    "fields": {
+        "order": "5",
+        "name": "Mean Inequality",
+        "description": "Sort then cout << arr[i] << \" \" << arr[i + n] ;",
+        "link": "https://codeforces.com/contest/1526/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 20,
+    "fields": {
+        "order": "3",
+        "name": "Cut the Rope",
+        "description": "Cut the rope which is above the ground from its height at which it is tied.",
+        "link": "https://codeforces.com/contest/1846/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 21,
+    "fields": {
+        "order": "8",
+        "name": "Running for Gold",
+        "description": "https://codeforces.com/blog/entry/93199",
+        "link": "https://codeforces.com/contest/1552/problem/B"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 22,
+    "fields": {
+        "order": "1",
+        "name": "Find the Maximum Achievable Number",
+        "description": "You can increase n upto t so the number will be n + 2 * t.",
+        "link": "https://leetcode.com/problems/find-the-maximum-achievable-number/"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 23,
+    "fields": {
+        "order": "8",
+        "name": "Row Major",
+        "description": "Check the smallest number x such that x is not the factor of n. this x is the minimum number of distinct characters that we should use periodically.",
+        "link": "https://codeforces.com/contest/1844/problem/D"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 24,
+    "fields": {
+        "order": "1",
+        "name": "Subtraction Game",
+        "description": "answer can be 1 , 2 , 3. just check which will work!",
+        "link": "https://codeforces.com/contest/1844/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 25,
+    "fields": {
+        "order": "5",
+        "name": "Two Hundred Twenty One (easy version)",
+        "description": "The answer can be either 0 or 1 or 2! if the total sum is not zero and the length of the current range is odd then answer should be 1..",
+        "link": "https://codeforces.com/contest/1562/problem/D1"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 26,
+    "fields": {
+        "order": "3",
+        "name": "Vika and Her Friends",
+        "description": "What if manhatten distance between Vika and her friends is even and odd?",
+        "link": "https://codeforces.com/contest/1848/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 27,
+    "fields": {
+        "order": "1",
+        "name": "Break the Stick",
+        "description": "Do it yourself!",
+        "link": "https://www.codechef.com/problems/BREAKSTICK?tab=statement"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 28,
+    "fields": {
+        "order": "4",
+        "name": "Different Rules",
+        "description": "Try to observe, n + 1 = (n - 1) + 2 = (n - 2) + 3 ...",
+        "link": "https://codeforces.com/contest/1313/problem/B"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 29,
+    "fields": {
+        "order": "1",
+        "name": "Morning Sandwich",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1849/problem/A"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 30,
+    "fields": {
+        "order": "1",
+        "name": "Good Arrays",
+        "description": "We should try to make an array b where there are less 1.",
+        "link": "https://codeforces.com/contest/1856/problem/B"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 31,
+    "fields": {
+        "order": "5",
+        "name": "Strong Vertices",
+        "description": "Rewrite the inequality, au - bu >= av - bv, now make a new array where the values are a[i] - b[i].",
+        "link": "https://codeforces.com/contest/1857/problem/D"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 32,
+    "fields": {
+        "order": "5",
+        "name": "Power of Points",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1857/problem/E"
+    }
+},
+{
+    "model": "Home.brain",
+    "pk": 33,
+    "fields": {
+        "order": "5",
+        "name": "Increment Submatrices by One",
+        "description": "Learn the difference array trick!",
+        "link": "https://leetcode.com/problems/increment-submatrices-by-one/"
+    }
+}
+]

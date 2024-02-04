@@ -1,0 +1,142 @@
+[
+{
+    "model": "Home.brute",
+    "pk": 1,
+    "fields": {
+        "order": "20",
+        "name": "Kill Anton",
+        "description": "Notice that only 4 different characters. In optimal way all the same characters will be together!",
+        "link": "https://codeforces.com/contest/1526/problem/D"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 2,
+    "fields": {
+        "order": "1",
+        "name": "Rudolph and Tic-Tac-Toe",
+        "description": "Just check!",
+        "link": "https://codeforces.com/contest/1846/problem/B"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 3,
+    "fields": {
+        "order": "5",
+        "name": "Rudolf and Snowflakes(e)",
+        "description": "What can be the max value of k (k <= sqrt(n)). Run a loop for k and check optimally without using pow() formula!",
+        "link": "https://codeforces.com/contest/1846/problem/E1"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 4,
+    "fields": {
+        "order": "2",
+        "name": "Partition String Into Minimum Beautiful Substrings",
+        "description": "Try to write recursion with base case!",
+        "link": "https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 5,
+    "fields": {
+        "order": "1",
+        "name": "Number of Unequal Triplets in Array",
+        "description": "The constraints are very small. Can we try every triplet?",
+        "link": "https://leetcode.com/problems/number-of-unequal-triplets-in-array/"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 6,
+    "fields": {
+        "order": "2",
+        "name": "Number of Subarrays With LCM Equal to K",
+        "description": "The constraints on nums.length are small. It is possible to check every subarray.",
+        "link": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 7,
+    "fields": {
+        "order": "1",
+        "name": "Prefix and Suffix Array",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1794/problem/A"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 8,
+    "fields": {
+        "order": "1",
+        "name": "Simply Strange Sort",
+        "description": "look at the constraints!",
+        "link": "https://codeforces.com/contest/1561/problem/A"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 9,
+    "fields": {
+        "order": "1",
+        "name": "Escalator Conversations",
+        "description": "Look at the small constraints!",
+        "link": "https://codeforces.com/contest/1851/problem/A"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 10,
+    "fields": {
+        "order": "1",
+        "name": "Circular Sentence",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/circular-sentence/"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 11,
+    "fields": {
+        "order": "1",
+        "name": "Balanced Substring",
+        "description": "Do it yourself!",
+        "link": "https://codeforces.com/contest/1569/problem/A"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 12,
+    "fields": {
+        "order": "2",
+        "name": "Delete Greatest Value in Each Row",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/delete-greatest-value-in-each-row/"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 13,
+    "fields": {
+        "order": "1",
+        "name": "Count Pairs Of Similar Strings",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/count-pairs-of-similar-strings/"
+    }
+},
+{
+    "model": "Home.brute",
+    "pk": 14,
+    "fields": {
+        "order": "2",
+        "name": "Maximum Enemy Forts That Can Be Captured",
+        "description": "Do it yourself!",
+        "link": "https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/"
+    }
+}
+]
