@@ -104,7 +104,7 @@ DATABASES = {
     #     'ENGINE': 'django.db.backends.postgresql',
     #     'HOST': 'containers-us-west-101.railway.app',
     #     'NAME': 'railway',
-    #     'USER': 'postgres',
+    #     'USER': 'postgres',s
     #     'PASSWORD': 'xsXWpwCklC4ePTOii9eq',
     #     'PORT': '6542',
 
@@ -122,13 +122,14 @@ DATABASES = {
   
 }
 
-
+#aiven
+DATABASES["default"] = dj_database_url.parse("postgres://avnadmin:AVNS_j4BmX83uJ9tRUZ9frWy@codesniper-codesniper.f.aivencloud.com:15897/defaultdb?sslmode=require")
 #neon
 #DATABASES["default"] = dj_database_url.parse("postgres://gaurav.singh911805:4QwKmUzRt5LT@ep-jolly-sun-27518314.ap-southeast-1.aws.neon.tech/neondb")
 # render
 # DATABASES["default"] = dj_database_url.parse("postgres://codesniper_user:nDzvUD2o5kOuu6WsCUK5SCOvxncofU2s@dpg-cj7sp4s5kgrc73c4s4q0-a.oregon-postgres.render.com/codesniper")
 #render2
-DATABASES["default"] = dj_database_url.parse("postgres://codesniper_ty9o_user:CpyAo9FXTUcfiJhrSmnfW4AL6eU8K91e@dpg-cmtuh36d3nmc73ftfmag-a.oregon-postgres.render.com/codesniper_ty9o")
+#DATABASES["default"] = dj_database_url.parse("postgres://codesniper_ty9o_user:CpyAo9FXTUcfiJhrSmnfW4AL6eU8K91e@dpg-cmtuh36d3nmc73ftfmag-a.oregon-postgres.render.com/codesniper_ty9o")
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
